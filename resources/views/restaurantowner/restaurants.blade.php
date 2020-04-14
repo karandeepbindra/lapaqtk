@@ -23,7 +23,7 @@
 
 ----->  $('.min_order_price').numeric({ allowThouSep:false, maxDecimalPlaces: 2, allowMinus: false }); 
 
-//////////
+/////
 
                     <div class="form-group row">
                         <label class="col-lg-3 col-form-label">Is Featured?</label>
